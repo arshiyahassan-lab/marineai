@@ -1,0 +1,7 @@
+Flask
+google-api-python-client
+openai
+yt-dlp
+python-dotenv
+iso8601
+flask_cors
