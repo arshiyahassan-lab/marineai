@@ -4,4 +4,5 @@ openai
 yt-dlp
 python-dotenv
 iso8601
+gunicorn
 flask_cors
